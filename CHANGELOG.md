@@ -8,7 +8,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versio
 
 ### Changed
 
-- Clone URL and plugin homepage now use `bunnysi`.
+- Clone URL and plugin homepage now use `opentu`.
 
 ## [0.2.0] - 2026-09-13
 
